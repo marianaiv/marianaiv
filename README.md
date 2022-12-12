@@ -1,3 +1,5 @@
+# About me
+
 Hi! 👋 My name is Mariana Vivas and I'm a data scientist and physist. 
 
 I entered the world of data science doing the final project of my degree using machine learning to search for new physics in simulated data of the LHC. My interest lean toward machine learning, data engineering and open science. 
