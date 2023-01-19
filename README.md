@@ -20,7 +20,7 @@ The **individual projects**:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marianaiv&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-marianaiv.vercel.app/api?username=marianaiv&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=marianaiv&icon=3&color=10)](https://visitcount.itsvg.in)
 
