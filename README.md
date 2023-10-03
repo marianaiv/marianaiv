@@ -9,11 +9,13 @@
 - [Machine learning model to classify real state data](https://github.com/marianaiv/datathon_PI02)<br>  
 - [Data analysis of plane crashes since 1908](https://github.com/marianaiv/analytics_PI03)<br>
 
-Since then, I've expanded my scope and currently work in the financial sector where I develop data-driven models to enhance tax collection in San Salvador. My work primarily involves:<br>
+Since then, I've expanded my scope and worked in the financial sector where I develop data-driven models to enhance tax collection in San Salvador. My work primarily involved:<br>
 
 - Developing a predictive model for tax defaulters
 - Classifying real estate taxes into high, normal, and low categories
 - Creating a model to predict taxpayer payments for upcoming months
+
+Currently, I am working at the European Organization for Nuclear Research (CERN), enabling open science in data from ATLAS.
 
 I'm constantly seeking out new challenges and always eager to learn more in the vast world of data science. Feel free to explore my work and reach out with any potential opportunities or collaborations!
 
