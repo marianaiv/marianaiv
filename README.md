@@ -1,23 +1,13 @@
 # 💫 About Me:
-<br>Hi! 👋 I'm Mariana Vivas, a data scientist and physicist, with a strong passion for machine learning, data science, and open science. <br><br>I originally ventured into the world of data science during [my final project](https://marianaiv.github.io/tesis_grado_UCV/intro.html), where I used [machine learning to search for new physics](https://github.com/marianaiv/benchtools) in simulated LHC data. This sparked my interest and led me to further my knowledge. <br><br>In the past, I completed a comprehensive bootcamp at Henry's, where I honed my skills in Python, SQL, Docker, PowerBI, and machine learning. You can check out the various projects I completed during the bootcamp:<br>
+<br>Hi! 👋 I'm Mariana Vivas Albornoz, a physicist with a strong passion for data analysis, machine learning, and open science. <br><br>I’m a PhD candidate in experimental particle physics at the Deutsches Elektronen-Synchrotron (DESY), working within the ATLAS experiment. Since 2023 I’ve contributed to the ATLAS Open Data Project at CERN. You can see our materials on the [ATLAS Open Data website](https://opendata.atlas.cern).
 
-**Team project**: 
-- [MLGI: Mexico seismic alert](https://github.com/MLGIdata/seismic-alerts)<br>
+Before returning to academia, I applied data science in the public-finance sector in San Salvador, building predictive models to improve tax collection—forecasting payments, identifying likely defaulters, and segmenting real-estate tax behavior.
 
-**Individual projects**:
-- [ETL with python and MySQL](https://github.com/marianaiv/ETL_PI01)<br>  
-- [Machine learning model to classify real state data](https://github.com/marianaiv/datathon_PI02)<br>  
-- [Data analysis of plane crashes since 1908](https://github.com/marianaiv/analytics_PI03)<br>
+My practical foundation was a Data Science bootcamp at Henry, where I improved my Python, SQL, Docker, Power BI, and machine-learning skills through different (pretty basic) projects: [Mexico seismic-alert prototype](https://github.com/MLGIdata/seismic-alerts), an [ETL pipeline with Python/MySQL](https://github.com/marianaiv/ETL_PI01), a [real-estate classifier](https://github.com/marianaiv/datathon_PI02), and a [historical analysis of aviation incidents](https://github.com/marianaiv/analytics_PI03).
 
-Since then, I've expanded my scope and worked in the financial sector where I develop data-driven models to enhance tax collection in San Salvador. My work primarily involved:<br>
+The spark for all this came earlier: in my undergrad [final project](https://marianaiv.github.io/tesis_grado_UCV/intro.html) I used [machine learning to search for new physics](https://github.com/marianaiv/benchtools) in simulated LHC data—an experience that set me on this path.
 
-- Developing a predictive model for tax defaulters
-- Classifying real estate taxes into high, normal, and low categories
-- Creating a model to predict taxpayer payments for upcoming months
-
-Currently, I am working at the European Organization for Nuclear Research (CERN), enabling open science in data from ATLAS.
-
-I'm constantly seeking out new challenges and always eager to learn more in the vast world of data science. Feel free to explore my work and reach out with any potential opportunities or collaborations!
+I’m always up for new challenges at the intersection of physics and data. Feel free to explore my work and reach out!
 
 ## 📃 Resume:
 [![Me](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://marianaiv.github.io/resume/cv.pdf)
